@@ -40,20 +40,40 @@
             <dependent_value/>
             <element>item_type</element>
             <hint/>
-            <inactive>false</inactive>
-            <label>Mobile Phone</label>
+            <inactive>true</inactive>
+            <label>Mobile Phone2</label>
             <language>en</language>
             <name>x_snc_loaner_reque_loaner_request</name>
-            <sequence>1</sequence>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 03:20:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a94cab1d6cd330107f44158e3004820a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 03:23:51</sys_updated_on>
+            <value>cmdb_ci_mobile_phone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Mobile Phone1</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-10-19 01:40:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f3355bd96c9330107f44158e300482d3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-10-19 01:40:04</sys_updated_on>
+            <sys_updated_on>2021-10-19 03:21:48</sys_updated_on>
             <value>cmdi_ci_mobile_device</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -64,17 +84,37 @@
             <label>Projector</label>
             <language>en</language>
             <name>x_snc_loaner_reque_loaner_request</name>
-            <sequence>2</sequence>
+            <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-10-19 01:40:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>bb355bd96c9330107f44158e300482d5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-10-19 01:40:04</sys_updated_on>
+            <sys_updated_on>2021-10-19 03:21:48</sys_updated_on>
             <value>cmdb_ci_projector</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobile Phone</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-19 03:23:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14dc235d6cd330107f44158e30048251</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-19 03:23:51</sys_updated_on>
+            <value>cmdb_ci_mobile_device</value>
         </sys_choice>
     </sys_choice>
 </record_update>
